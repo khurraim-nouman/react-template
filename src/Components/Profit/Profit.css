@@ -1,0 +1,27 @@
+.item {
+    background: #f3f3f3;
+    color: #333;
+    width: 65%;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.heading i {
+    color: green;
+    padding-right: 10px;
+}
+
+.heading p {
+    font-weight: 500;
+}
+
+
+.heading-second i {
+    color: red;
+    padding-right: 10px;
+}
+
+.heading-second p {
+    font-weight: 500;
+}
+

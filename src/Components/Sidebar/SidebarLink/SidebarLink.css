@@ -1,0 +1,9 @@
+.sidebarLink {
+    background: rgb(49, 204, 145);
+}
+
+.sidebarLink p {
+    margin: 0 15px;
+    font-weight: 500;
+    font-size: 18px;
+}
